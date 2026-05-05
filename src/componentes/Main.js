@@ -2,7 +2,9 @@ function Main(){
 
     return (
 <>
-<h1>Conte</h1>
+<h1>Conteúdo principal</h1>
 </>
     )
 }
+
+export default Main;
