@@ -5,10 +5,11 @@ function Footer(){
 <div></div>
 <div className="menuFooter">
     <ul>
-        <li>Sobre o Curso</li>
-        <li>Disciplinas Curriculares</li>
-        <li>Disciplinas Técnicas</li>
-        <li>Equipe</li>
+
+                    <li><Link to="/sobreCurso"></Link>Sobre o Curso</li>
+                    <li><Link to="/disciplinasTecnicas"></Link>Disciplinas Básicas</li>
+                    <li><Link to="/disciplinasCurriculares"></Link>Disciplinas Técnicas</li>
+                    <li><Link to="/equipe"></Link>Equipe</li>
     </ul>
 </div>
 <div className="credenciais">
