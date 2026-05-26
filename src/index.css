@@ -69,3 +69,42 @@ footer .credenciais h1{
 color: #fff;
 font-size: 20px;
 }
+
+disciplinas{
+width: 80%;
+margin: 0 auto;
+margin-top: 20px;
+margin-bottom: 20px;
+background-color: #fff;
+border-radius: 5px;
+}
+disciplinas .headerDisciplinas{
+height: 90px;
+}
+
+disciplinas .headerDisciplinas h1{
+  width: 100%;
+  margin-left: 40px;
+  font-size: 2em;
+  text-align: left;
+
+}
+
+disciplinas .contentDisciplinas{
+
+}
+
+disciplinas .contentDisciplinas article{
+display: flex;
+width: 25%;
+align-items: center;
+justify-content: space-around;
+}
+
+disciplinas .contentDisciplinas article img{
+
+}
+
+disciplinas .contentDisciplinas article h2{
+
+}
